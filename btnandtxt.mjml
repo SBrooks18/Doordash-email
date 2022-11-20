@@ -1,0 +1,16 @@
+
+ <mj-section   padding-top="0px "  background-color="#0cbbbe">
+
+  
+          <mj-column padding-top="20px" >
+ <mj-button css-class="content-btn"  font-family="Helvetica" 
+       
+    background-color="#eb1700" border-radius="25px" color="white" height="45px" font-weight="bold" font-size="20px" >
+             Order Now
+         </mj-button>
+      </mj-column>
+       <mj-column >
+           <mj-image css-class="logo"  align="left" padding-top="0px " src="img/plate.png"/>
+      </mj-column>
+
+</mj-section>

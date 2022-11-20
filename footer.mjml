@@ -1,0 +1,52 @@
+<mj-wrapper css-class="footer" padding="0px" background-color="#f4f4f4" color="grey">
+  <mj-section padding="0px 0px">
+    <mj-column padding="0px 0px">
+      <mj-text font-family="Helvetica" color="grey">
+        <p>
+          ©2022 DoorDash, Inc. <br> </br>
+          303 2nd St. <br> </br>
+          South Tower, Suite 800 <br> </br>
+          San Francisco CA 94107 <br> </br>
+        </p>
+      </mj-text>
+     </mj-section >
+<mj-section text-align="left"  padding="0px 20px" css-class="icon_img">
+    <mj-column 
+     width="38px" padding="0" >
+          <mj-image align="left"  padding="0px"  width="18px" src="img/facebook.png" />
+   </mj-column>
+
+      <mj-column padding="0" width="38px">
+          <mj-image align="left"  padding="0px"  width="18px" src="img/twitter.png" />
+     </mj-column>
+     
+     <mj-column padding="0" width="38px">
+          <mj-image align="left"  padding="0px"  width="18px" src="img/instagram.png" />
+      </mj-column>
+    
+     <mj-column padding="0" width="38px" >
+          <mj-image align="left" padding="0px"  width="18px" src="img/medium.png" />
+   </mj-column>
+
+  </mj-section>
+  
+       </mj-column>
+  </mj-section>
+  <mj-section padding-left="20px">
+
+
+
+      <mj-text font-family="Helvetica" color="grey">
+        <p>
+          Help Center | Unsubscribe 
+        </p>
+
+        <p>View email in browser.</p>
+
+        <p>
+          PROMOTIONAL DETAILS: Promo is valid only for users who received this email directly from DoorDash. Offer valid through 10/30/22 11:59pm PST. Up to $10 max value. Promo Limit one per person. Other fees (including service fee), taxes, and gratuity still apply. Not valid for the purchase of alcohol. All deliveries subject to availability. Must have or create a valid DoorDash account with a valid form of accepted payment on file. No cash value. Non-transferable. See full terms and conditions at help.doordash.com/consumers/s/article/offer-terms-conditions.
+        </p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

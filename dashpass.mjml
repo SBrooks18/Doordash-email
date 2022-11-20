@@ -1,0 +1,18 @@
+
+ <mj-section   padding-top="0px " background-color="#fff1ef">
+
+
+          <mj-column padding-top="20px" >
+            <mj-text align="left" font-family="Helvetica" color="red" font-size="30px" font-weight="bold"  padding-left="50px" >
+           Start saving every time you order</mj-text>
+ <mj-button css-class="content-btn"  font-family="Helvetica" 
+       
+    background-color="#eb1700" border-radius="25px" color="white" height="45px" font-weight="bold" font-size="20px" >
+             Get DashPass
+         </mj-button>
+      </mj-column>
+       <mj-column >
+           <mj-image css-class="logo"  align="left" padding-top="50px " src="../img/grocery.png"/>
+      </mj-column>
+
+</mj-section>

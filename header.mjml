@@ -1,0 +1,11 @@
+ 
+ <mj-wrapper background-color="#0cbbbe" padding="0">
+  <mj-section  >
+
+      <mj-column >
+           <mj-image css-class="logo" width="50px" align="left" src="img/logo.png"/>
+      </mj-column>
+
+</mj-section>
+   </mj-wrapper>
+

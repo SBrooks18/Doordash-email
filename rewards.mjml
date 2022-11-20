@@ -1,0 +1,85 @@
+ <mj-wrapper background-color="#00494e" padding="0">
+   <mj-section>
+
+     <mj-column>
+       <mj-image width="250px" align="left" src="img/whitelogo.png" />
+     </mj-column>
+
+     <mj-divider border-width="1px" border-style="solid" border-color="white" width="520px" />
+     </mj-column>
+
+
+   </mj-section>
+
+
+
+   <mj-section background-color="#00494e" css-class="social" padding="0">
+
+<mj-column margin-right="30px">
+ 
+ 
+          
+ <mj-image  width="40px" padding="30px" src="img/apple.png" />
+            
+         
+
+        <mj-text color="white">download on apple</mj-text>
+   
+
+
+ </mj-column>
+
+
+<mj-column margin-right="30px">
+ 
+ 
+          
+ <mj-image  width="40px" padding="30px" src="img/android.png" />
+            
+         
+
+        <mj-text color="white">download on android</mj-text>
+   
+
+
+ </mj-column>
+
+ <mj-column>
+
+
+       <mj-image width="40px" align="left" padding="30px" src="img/dp.png" />
+       <mj-text color="white">
+         Sign up for
+         DashPass</mj-text>
+
+
+
+     </mj-column>
+
+
+     <mj-column>
+
+
+       <mj-image width="40px" padding="30px" src="img/refer.png" />
+       <mj-text color="white">
+         Refer and
+         earn credit</mj-text>
+
+
+
+     </mj-column>
+
+     <mj-column>
+
+
+       <mj-image width="40px" padding-top="30px" src="img/biker.png" />
+       <mj-text color="white">
+         Deliver with
+         DoorDash</mj-text>
+
+
+
+     </mj-column>
+
+   </mj-section>
+ </mj-wrapper>
