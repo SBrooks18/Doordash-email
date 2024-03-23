@@ -13,7 +13,7 @@
 <mj-section text-align="left"  padding="0px 20px" css-class="icon_img">
     <mj-column 
      width="38px" padding="0" >
-          <mj-image align="left"  padding="0px"  width="18px" src="img/facebook.png" />
+          <mj-image align="left"  padding="0px"  width="18px" src="./img/facebook.png" />
    </mj-column>
 
       <mj-column padding="0" width="38px">
